@@ -1,0 +1,116 @@
+body {
+    background-color: #E1C0FC;
+    margin: 0;
+    padding: 0;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+.navbar {
+	
+	background-color: #E1C0FC; 
+	padding: 10px 20px;
+    }
+
+.navbar-brand {
+	
+     font-weight: bold;
+     color: #8666E7;
+     font-size: 1.2rem;
+    }
+
+.navbar-nav .nav-link {
+	
+     color: #8666E7;
+     font-size: 0.95rem;
+     margin: 0 10px;
+    }
+
+.navbar-nav .nav-link:hover {
+      color: #6F4ACF;
+    }
+
+#hero-tops{
+    text-align: center;
+	padding-top: 80px;
+	padding-bottom: 50px;
+    background-color: #ffffff;
+}
+
+#hero-tops h1{
+	text-align: center;
+	font-size: 40px;
+	color: #6F4ACF;
+	padding-bottom: 50px;
+}
+
+
+article img {
+    width: 180px; 
+    height: 250px; 
+    object-fit: cover;
+    border-radius: 15px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+#form{
+    padding: 100px 0;
+    background-color: #E1C0FC; 
+	color: #6F4ACF;
+}
+
+
+#informacion{
+	text-align: center;
+	padding: 40px 0px;
+	background-color: #ffffff;
+}
+
+#informacion{
+	padding-bottom: 100px;
+}
+
+#informacion h1 {
+	text-align: center;
+    padding-top: 50px;
+	padding-bottom: 30px;
+	color: #8666E7;
+}
+
+#informacion h4 {
+	text-align: center;
+    padding: 10px 0; 
+}
+
+
+#informacion i{
+	font-size: 80px;
+	color: #8666E7
+}
+
+#faq{
+	background-color: #E1C0FC;
+	padding: 100px 20px;
+	text-align: left;
+}
+
+
+#faq h1 {
+	text-align: center;
+    padding-top: 20px;
+	padding-bottom: 40px;
+	color: #6F4ACF;
+}
+
+#faq h3 {
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
